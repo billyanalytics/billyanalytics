@@ -8,6 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
 ![Billy GitHub stats](https://github-readme-stats.vercel.app/api?username=billyanalytics&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billyanalytics&layout=compact)](https://github.com/billyanalytics/github-readme-stats)
 
 ### Tecnologias que uso no meu dia dia 
 <div style="display: inline_block"><br/>
