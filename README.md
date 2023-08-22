@@ -1,4 +1,4 @@
-### Olá, Eu sou Billy, Alan  👋
+### Olá, Eu sou Alan Billy 👋
 
 - 🔭 Atualmente estou trabalhando como Gerente de estoque
 - 🌱 Estou aprendendo Analise de dados (Em formação)
