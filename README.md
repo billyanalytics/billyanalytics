@@ -9,8 +9,12 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
 ## 📊 Analises GitHub
-![Billy GitHub stats](https://github-readme-stats.vercel.app/api?username=billyanalytics&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billyanalytics&layout=compact)](https://github.com/billyanalytics/github-readme-stats)
+<div>
+  <a href="https://github.com/billyanalytics">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=billyanalytics&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billyanalytics&layout=compact&langs_count=7&theme=dracula"/>
+    
+<div> 
 
 ## 🛠️ Tecnologias (Em formação)
 <div align="center">
