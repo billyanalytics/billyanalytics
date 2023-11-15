@@ -4,7 +4,7 @@
 - 🌱 Estou aprendendo Analise de dados (Em formação)
 - 😄 Ele / dele
   
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 ## 🤝 Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanbillyteixeirareis/)
@@ -14,8 +14,7 @@
 <div>
   <a href="https://github.com/billyanalytics">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=billyanalytics&theme=radical&mode=weekly" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billyanalytics&layout=compact&langs_count=7&theme=dracula"/>
-    
+ 
 <div> 
 
 ## 🛠️ Tecnologias (Em formação)
