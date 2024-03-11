@@ -4,7 +4,7 @@
 - 📊 Analista de dados 
 - 😄 Ele / dele
 
-Sou um entusiasta da tecnologia apaixonado por desafios, números e soluções criativas. Com um foco principal em análise de dados, tenho experiência em lidar com bancos de dados, análise de dados, KPIs e machine learning. Estou constantemente buscando aprender e me aprimorar em novas tecnologias e conceitos, sempre em busca de desafios que possam expandir meus horizontes.
+Sou um entusiasta da tecnologia apaixonado por desafios, números e soluções criativas. Com um foco principal em `análise de dados`, tenho experiência em lidar com bancos de dados, análise de dados, KPIs e machine learning. Estou constantemente buscando aprender e me aprimorar em novas tecnologias e conceitos, sempre em busca de desafios que possam expandir meus horizontes.
 
 Principais Habilidades
 
