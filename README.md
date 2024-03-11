@@ -3,6 +3,17 @@
 - 🔭 Formado em adm 
 - 📊 Analista de dados 
 - 😄 Ele / dele
+
+Sou um entusiasta da tecnologia apaixonado por desafios, números e soluções criativas. Com um foco principal em análise de dados, tenho experiência em lidar com bancos de dados, análise de dados, KPIs e machine learning. Estou constantemente buscando aprender e me aprimorar em novas tecnologias e conceitos, sempre em busca de desafios que possam expandir meus horizontes.
+
+Principais Habilidades
+
+    Linguagens de Programação: Python, SQL
+    Bancos de Dados: MySQL, PostgreSQL
+    Análise de Dados: Pandas
+    Machine Learning: 
+    Ferramentas de Visualização: Tableau, Power BI
+    Outras Ferramentas: Git, Jupyter Notebook, Debeaver
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
