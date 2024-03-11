@@ -1,6 +1,7 @@
 ### Olá, Eu sou Alan Billy 👋
 
-- 🔭 Formado em adm e na migração para analise de dados 🙏
+- 🔭 Formado em adm e
+- 📊 Analise de dados 
 - 🌱 Estou aprendendo Analise de dados (Em formação)
 - 😄 Ele / dele
   
