@@ -9,7 +9,7 @@
 
 ### 🔍 Sobre mim
 
-🎓 Formado em Administração, atuei como Analista de Dados e atualmente foco minha carreira em **Data Science com ênfase em Séries Temporais e Machine Learning**.
+🎓 Formado em Administração, atuei como Analista de Dados e atualmente foco minha carreira em **Data Science**.
 
 🚀 Sou movido por desafios, gosto de construir pipelines preditivos eficientes, reprodutíveis e que gerem valor real ao negócio. 
 
